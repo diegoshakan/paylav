@@ -1,7 +1,7 @@
 # README - PayLav Challenge
-![GitHub top language](https://img.shields.io/github/languages/top/diegoshakan/nuuvem_challenge)
-![GitHub language count](https://img.shields.io/github/languages/count/diegoshakan/nuuvem_challenge?style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/diegoshakan/nuuvem_challenge)
+![GitHub top language](https://img.shields.io/github/languages/top/diegoshakan/paylav)
+![GitHub language count](https://img.shields.io/github/languages/count/diegoshakan/paylav?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/diegoshakan/paylav)
 
 This Web App receive a file text (type .tab) and parse data to save in one relational database.
 
