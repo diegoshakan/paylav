@@ -1,4 +1,4 @@
-# README - Nuuvem Challenge
+# README - PayLav Challenge
 ![GitHub top language](https://img.shields.io/github/languages/top/diegoshakan/nuuvem_challenge)
 ![GitHub language count](https://img.shields.io/github/languages/count/diegoshakan/nuuvem_challenge?style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/diegoshakan/nuuvem_challenge)
