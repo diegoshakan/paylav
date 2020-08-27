@@ -32,8 +32,14 @@ This Web App receive a file text (type .tab) and parse data to save in one relat
 * and all this information was saved in your database.
 * You can see your saved datas in rails console, for example. Just start the console with $ rails c and type $ PurchaseInformation.all
 
-## Tests
+furhter informations:
+I used bootstrap by webpacker setting to make style of system.
+
+## Tests and Development librarys (gems)
 GEMS
+* Simple-form
+* Devise
+* Pry
 * Rspec-rails
 * Factory_bot_rails
 * FFaker
