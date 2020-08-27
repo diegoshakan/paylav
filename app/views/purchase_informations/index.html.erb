@@ -1,0 +1,55 @@
+<%= render 'navbar' %>
+
+<br />
+
+<div class="container">
+  <h3>Purchase Informations</h3>
+  <br />
+    <%= simple_form_for PurchaseInformation.new, wrapper: :inline_form,  html: { class: "form-inline" }, wrapper_mappings: { boolean: :inline_boolean } do |f| %>
+      <%= f.input :document, as: :file, label: false, input_html: { class: "mb-2 mr-sm-2" } %>
+      <%= f.button :submit, class: "btn-primary mb-2" %>
+    <% end %>
+  <div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 .col-sm-12 col-12">
+      <h3> Total das Vendas: R$ <%= @total %> </h3>
+      <table width="100%" class="table table-striped table-hover table-bordered">
+        <thead class="thead-light">
+          <tr>
+            <th> Purchaser Name </th>
+            <th> Item Description </th>
+            <th> Item Price </th>
+            <th> Purchase Count </th>
+            <th> Merchant Address </th>
+            <th> Merchant Name </th>
+          </tr>
+        </thead>
+        <tbody>
+          <% @purchase_informations.each do |info|%>
+          <tr>
+            <td>
+              <%= info.purchaser_name %>
+            </td>
+            <td>
+              <%= info.item_description %>
+            </td>
+            <td>
+              <%= info.item_price %>
+            </td>
+            <td>
+              <%= info.purchase_count %>
+            </td>
+            <td>
+              <%= info.merchant_address %>
+            </td>
+            <td>
+              <%= info.merchant_name %>
+            </td>
+          </tr>
+          <% end %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

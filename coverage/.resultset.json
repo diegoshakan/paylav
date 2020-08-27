@@ -1,0 +1,176 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/app/webapp/spec/helpers/purchase_informations_helper_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/app/webapp/spec/models/purchase_information_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/app/webapp/app/models/purchase_information.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/app/webapp/spec/models/user_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          5,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/app/webapp/spec/requests/callbacks_request_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/home/app/webapp/spec/requests/purchase_informations_request_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/app/webapp/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/app/webapp/app/controllers/purchase_informations_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1596379785
+  }
+}
