@@ -1,6 +1,6 @@
 # README - PayLav Challenge
 ![GitHub top language](https://img.shields.io/github/languages/top/diegoshakan/paylav)
-![GitHub language count](https://img.shields.io/github/languages/count/diegoshakan/paylav?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/diegoshakan/paylav)
 ![GitHub repo size](https://img.shields.io/github/repo-size/diegoshakan/paylav)
 
 This Web App receive a file text (type .tab) and parse data to save in one relational database.
